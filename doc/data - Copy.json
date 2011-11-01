@@ -1,0 +1,214 @@
+{
+    "data":{
+        "logo":"data/logo.swf",
+        "secciones":{
+            "home":{
+                "seccion":[
+                    {
+                        "img":"data/imagina.png",
+                        "texto":"Imagina tus Espacios"
+                    },
+                    {
+                        "img":"data/nuestra_diferencia.png",
+                        "texto":"Nuestra Diferencia"
+                    },
+                    {
+                        "img":"data/nuestros_proyectos.png",
+                        "texto":"Nuestros Proyectos"
+                    }
+                ],
+				"contenido":[
+					{
+						"img":"http://cdn.home-designing.com/wp-content/uploads/2009/04/kids-study-room-skylight.jpg"
+					},
+					{
+						"img":"http://www.sttudwalsinn.co.uk/resources/room+3+right.JPG"
+					},
+					{
+						"img":"http://www.desktopwallpaperhd.com/wallpapers/10/3092.jpg"
+					},
+					{
+						"img":"http://kidsroomdecoratingideas.co/wp-content/uploads/2011/07/Decorating-Kids-Rooms.jpg"
+					},
+					{
+						"img":"http://www.housemaintain.com/wp-content/uploads/2010/04/Elegant-modern-formal-and-stylish-living-rooms-1.jpg"
+					}
+				]
+            },
+			"quienes_somos":{
+				"items":[
+					{
+						"menu_title":"DeskDesign",
+						"content_title":"Lorem Ipsum (content_title)",
+						"content_text":"Lorem Ipsum (content_text)"
+					},
+					{
+						"menu_title":"Nuestra Diferencia",
+						"content_title":"Lorem Ipsum (content_title)",
+						"content_text":"Lorem Ipsum (content_text)"
+					},
+					{
+						"menu_title":"Mas items...",
+						"content_title":"Lorem Ipsum (content_title)",
+						"content_text":"Lorem Ipsum (content_text) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nibh ipsum, laoreet nec dignissim et, placerat a nunc. Nulla non metus orci, quis iaculis metus. In rhoncus, tortor lacinia interdum tincidunt, enim mi dapibus augue, nec aliquet risus mi at risus. Vestibulum porta vehicula neque, sit amet faucibus arcu consequat vitae. Pellentesque interdum auctor mi, in faucibus nisi viverra ut. Nunc sed viverra turpis.
+Duis a magna urna, vitae tincidunt libero. Curabitur aliquet sodales volutpat. Aliquam condimentum nibh eu metus convallis non dignissim sem tempus. Nullam accumsan erat ac purus ultrices at sodales nisi ornare. In at faucibus leo.
+Nulla facilisi. Curabitur erat lorem, hendrerit vel dictum id, sollicitudin vitae nibh. Maecenas at lobortis lacus. Quisque malesuada consequat dolor, et feugiat odio viverra vitae."
+					}
+				]
+			},
+			"nuestros_proyectos":{
+				"items":[
+					{
+						"imagen_chica":"http://3.bp.blogspot.com/_3EuPj0S9r34/TSE1S1-lbSI/AAAAAAAAiVM/3nLCR9fujJ8/s1600/number_one_smooth.jpg",
+						"imagen_grande":"http://3.bp.blogspot.com/_3EuPj0S9r34/TSE1S1-lbSI/AAAAAAAAiVM/3nLCR9fujJ8/s1600/number_one_smooth.jpg",
+						"content_title":"titulo del item 1",
+						"content_text":"contenido acá del item 1"
+					},
+					{
+						"imagen_chica":"http://www.staticmiss.com/imgs/normal/2009/10/13/cifra-gigante-de-metal-numero-2.jpg",
+						"imagen_grande":"http://www.staticmiss.com/imgs/normal/2009/10/13/cifra-gigante-de-metal-numero-2.jpg",
+						"content_title":"titulo dos",
+						"content_text":"contenido acá dos"
+					},
+					{
+						"imagen_chica":"http://www.arquitectronica.com.mx/images/stories/arqui%20moderna.jpg",
+						"imagen_grande":"http://www.arquitectronica.com.mx/images/stories/arqui%20moderna.jpg",
+						"content_title":"titulo",
+						"content_text":"contenido acá"
+					},
+					{
+						"imagen_chica":"http://www.arquitectronica.com.mx/images/stories/arqui%20minimalista.jpg",
+						"imagen_grande":"http://www.arquitectronica.com.mx/images/stories/arqui%20minimalista.jpg",
+						"content_title":"titulo",
+						"content_text":"contenido acá"
+					},
+					{
+						"imagen_chica":"http://architecturehomedesigns.com/wp-content/uploads/2011/05/minimalist-hous-design-black-interior.jpg",
+						"imagen_grande":"http://architecturehomedesigns.com/wp-content/uploads/2011/05/minimalist-hous-design-black-interior.jpg",
+						"content_title":"titulo",
+						"content_text":"contenido acá"
+					},
+					{
+						"imagen_chica":"http://architecturehomedesigns.com/wp-content/uploads/2011/05/minimalist-house-design-in-miami.jpg",
+						"imagen_grande":"http://architecturehomedesigns.com/wp-content/uploads/2011/05/minimalist-house-design-in-miami.jpg",
+						"content_title":"titulo",
+						"content_text":"contenido acá"
+					},
+					{
+						"imagen_chica":"http://architecturehomedesigns.com/wp-content/uploads/2011/05/White-minimalist-house-design.jpg",
+						"imagen_grande":"http://architecturehomedesigns.com/wp-content/uploads/2011/05/White-minimalist-house-design.jpg",
+						"content_title":"titulo",
+						"content_text":"contenido acá"
+					},
+					{
+						"imagen_chica":"http://www.alldoing.com/wp-content/uploads/2011/04/minimalist-house-design-1.jpg",
+						"imagen_grande":"http://www.alldoing.com/wp-content/uploads/2011/04/minimalist-house-design-1.jpg",
+						"content_title":"titulo",
+						"content_text":"contenido acá"
+					},
+					{
+						"imagen_chica":"http://www.alldoing.com/wp-content/uploads/2011/04/minimalist-house-design-5.jpg",
+						"imagen_grande":"http://www.alldoing.com/wp-content/uploads/2011/04/minimalist-house-design-5.jpg",
+						"content_title":"titulo",
+						"content_text":"contenido acá"
+					},
+					{
+						"imagen_chica":"http://www.roomsorganizer.com/wp-content/uploads/2011/03/Modern-Minimalist-House-Interior-Design6.jpg",
+						"imagen_grande":"http://www.roomsorganizer.com/wp-content/uploads/2011/03/Modern-Minimalist-House-Interior-Design6.jpg",
+						"content_title":"titulo",
+						"content_text":"contenido acá"
+					},
+					{
+						"imagen_chica":"http://www.roomsorganizer.com/wp-content/uploads/2011/03/Modern-Minimalist-House-Interior-Design5.jpg",
+						"imagen_grande":"http://www.roomsorganizer.com/wp-content/uploads/2011/03/Modern-Minimalist-House-Interior-Design5.jpg",
+						"content_title":"titulo",
+						"content_text":"contenido acá"
+					},
+					{
+						"imagen_chica":"http://www.juvandesign.com/wp-content/uploads/2009/05/rectangular-plates-modern-minimalist-house-ideas2.jpg",
+						"imagen_grande":"http://www.juvandesign.com/wp-content/uploads/2009/05/rectangular-plates-modern-minimalist-house-ideas2.jpg",
+						"content_title":"titulo",
+						"content_text":"contenido acá"
+					},
+					{
+						"imagen_chica":"http://www.solarnovo.com/wp-content/uploads/2011/06/minimalist-house-lighting-design-3.jpg",
+						"imagen_grande":"http://www.solarnovo.com/wp-content/uploads/2011/06/minimalist-house-lighting-design-3.jpg",
+						"content_title":"titulo",
+						"content_text":"contenido acá"
+					},
+					{
+						"imagen_chica":"http://3.bp.blogspot.com/_FbuVZUkzguE/SRmhk7VMaEI/AAAAAAAABFM/pnfjbSB2Osw/s400/NUMERO_14%5B1%5D.JPG",
+						"imagen_grande":"http://3.bp.blogspot.com/_FbuVZUkzguE/SRmhk7VMaEI/AAAAAAAABFM/pnfjbSB2Osw/s400/NUMERO_14%5B1%5D.JPG",
+						"content_title":"titulo",
+						"content_text":"contenido acá"
+					},
+					{
+						"imagen_chica":"http://i.imgur.com/QdqqR.jpg",
+						"imagen_grande":"http://i.imgur.com/QdqqR.jpg",
+						"content_title":"titulo",
+						"content_text":"contenido acá"
+					}
+				]
+			},
+			"galeria":{
+				"categories":[
+					{
+						"name":"categoria 1",
+						"items":[
+							{
+								"imagen_chica":"http://3.bp.blogspot.com/_3EuPj0S9r34/TSE1S1-lbSI/AAAAAAAAiVM/3nLCR9fujJ8/s1600/number_one_smooth.jpg",
+								"imagen_grande":"http://3.bp.blogspot.com/_3EuPj0S9r34/TSE1S1-lbSI/AAAAAAAAiVM/3nLCR9fujJ8/s1600/number_one_smooth.jpg",
+								"content_title":"(galeria) titulo del item 1",
+								"content_text":"(galeria) contenido acá del item 1 y mucho texto asdasdas asd as das da sd asd asd as da sdasdasdasdasdasd asd as dasdasdasdasda sdasdas"
+							},
+							{
+								"imagen_chica":"http://www.staticmiss.com/imgs/normal/2009/10/13/cifra-gigante-de-metal-numero-2.jpg",
+								"imagen_grande":"http://www.staticmiss.com/imgs/normal/2009/10/13/cifra-gigante-de-metal-numero-2.jpg",
+								"content_title":"(galeria) titulo dos",
+								"content_text":"(galeria) contenido acá dos"
+							},
+							{
+								"imagen_chica":"http://www.arquitectronica.com.mx/images/stories/arqui%20moderna.jpg",
+								"imagen_grande":"http://www.arquitectronica.com.mx/images/stories/arqui%20moderna.jpg",
+								"content_title":"titulo",
+								"content_text":"contenido acá"
+							}
+						]
+					},
+					{
+						"name":"categoria 2",
+						"categories":[
+							{
+								"name":"subcategoria 2-1",
+								"items":[
+									{
+										"imagen_chica":"http://www.arquitectronica.com.mx/images/stories/arqui%20moderna.jpg",
+										"imagen_grande":"http://www.arquitectronica.com.mx/images/stories/arqui%20moderna.jpg",
+										"content_title":"titulo",
+										"content_text":"contenido acá"
+									}
+								]
+							},
+							{
+								"name":"subcategoria 2-2",
+								"categories":[
+									{
+										"name":"subcategoria 2-2-1",
+										"items":[
+											{
+												"imagen_chica":"http://www.arquitectronica.com.mx/images/stories/arqui%20moderna.jpg",
+												"imagen_grande":"http://www.arquitectronica.com.mx/images/stories/arqui%20moderna.jpg",
+												"content_title":"titulo",
+												"content_text":"contenido acá"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+        }
+    }
+}
