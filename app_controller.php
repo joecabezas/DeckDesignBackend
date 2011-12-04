@@ -77,7 +77,7 @@ class AppController extends Controller {
 
 	function _setErrorLayout() {
     	if($this->name == 'CakeError') {
-	        $this->layout = 'error';
+			//$this->layout = 'error';
     	}
 	}
 
