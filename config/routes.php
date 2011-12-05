@@ -28,6 +28,7 @@
  */
 	//Router::connect('/', array('controller' => 'pages', 'action' => 'display', 'home'));
 	Router::connect('/', array('controller' => 'GalleryCategoryItems', 'action' => 'index', 'admin' => true));
+	Router::connect('/json', array('controller' => 'main', 'action' => 'getJson'));
 /**
  * ...and connect the rest of 'Pages' controller's urls.
  */
