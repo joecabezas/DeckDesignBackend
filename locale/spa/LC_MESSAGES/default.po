@@ -1,102 +1,101 @@
 # LANGUAGE translation of CakePHP Application
 # Copyright YEAR NAME <EMAIL@ADDRESS>
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"Project-Id-Version: DECKDESIGN\n"
 "POT-Creation-Date: 2011-12-04 23:10-0300\n"
-"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-12-04 23:14-0300\n"
+"Last-Translator: Joe Cabezas <joe.cabezas@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 #: /controllers/about_us_items_controller.php:13;33
 msgid "Invalid about us item"
-msgstr ""
+msgstr "Elemento \"Quienes Somos\" inválido"
 
 #: /controllers/about_us_items_controller.php:23;38
 msgid "The about us item has been saved"
-msgstr ""
+msgstr "El elemento \"Quienes Somos\" ha sido guardado"
 
 #: /controllers/about_us_items_controller.php:26;41
 msgid "The about us item could not be saved. Please, try again."
-msgstr ""
+msgstr "El elemento \"Quienes Somos\" no pudo ser guardado Por favor, intente nuevamente."
 
 #: /controllers/about_us_items_controller.php:51
 msgid "Invalid id for about us item"
-msgstr ""
+msgstr "ID inválida para el elemento \"Quienes Somos\""
 
 #: /controllers/about_us_items_controller.php:55
 msgid "About us item deleted"
-msgstr ""
+msgstr "El elemento \"Quienes Somos\" ha sido borrado"
 
 #: /controllers/about_us_items_controller.php:58
 msgid "About us item was not deleted"
-msgstr ""
+msgstr "El elemento \"Quienes Somos\" no ha sido borrado"
 
 #: /controllers/ambient_item_hotspot_textures_controller.php:13;35
 msgid "Invalid ambient item hotspot texture"
-msgstr ""
+msgstr "Textura del hotspot inválida"
 
 #: /controllers/ambient_item_hotspot_textures_controller.php:23;40
 msgid "The ambient item hotspot texture has been saved"
-msgstr ""
+msgstr "La textura del hotspot ha sido guardada"
 
 #: /controllers/ambient_item_hotspot_textures_controller.php:26;43
 msgid "The ambient item hotspot texture could not be saved. Please, try again."
-msgstr ""
+msgstr "La textura del hotspot no pudo ser guardada. Por favor, intente de nuevo."
 
 #: /controllers/ambient_item_hotspot_textures_controller.php:55
 msgid "Invalid id for ambient item hotspot texture"
-msgstr ""
+msgstr "ID inválido para la textura del hotspot"
 
 #: /controllers/ambient_item_hotspot_textures_controller.php:59
 msgid "Ambient item hotspot texture deleted"
-msgstr ""
+msgstr "Textura del hotspot borrada"
 
 #: /controllers/ambient_item_hotspot_textures_controller.php:62
 msgid "Ambient item hotspot texture was not deleted"
-msgstr ""
+msgstr "Textura del hotspot no fue borrada"
 
 #: /controllers/ambient_item_hotspots_controller.php:13;35
 msgid "Invalid ambient item hotspot"
-msgstr ""
+msgstr "Hotspot inválido"
 
 #: /controllers/ambient_item_hotspots_controller.php:23;40
 msgid "The ambient item hotspot has been saved"
-msgstr ""
+msgstr "El Hotspot fue guardado"
 
 #: /controllers/ambient_item_hotspots_controller.php:26;43
 msgid "The ambient item hotspot could not be saved. Please, try again."
-msgstr ""
+msgstr "El Hotspot no puedo ser guardado. Por favor, intente nuevamente"
 
 #: /controllers/ambient_item_hotspots_controller.php:55
 msgid "Invalid id for ambient item hotspot"
-msgstr ""
+msgstr "ID inválido para el Hotspot"
 
 #: /controllers/ambient_item_hotspots_controller.php:59
 msgid "Ambient item hotspot deleted"
-msgstr ""
+msgstr "Hotspot borrado"
 
 #: /controllers/ambient_item_hotspots_controller.php:62
 msgid "Ambient item hotspot was not deleted"
-msgstr ""
+msgstr "Hotspot no fue borrado"
 
 #: /controllers/ambient_items_controller.php:13;35
 msgid "Invalid ambient item"
-msgstr ""
+msgstr "Ambiente inválido"
 
 #: /controllers/ambient_items_controller.php:23;40
 msgid "The ambient item has been saved"
-msgstr ""
+msgstr "El Ambiente ha sido guardado"
 
 #: /controllers/ambient_items_controller.php:26;43
 msgid "The ambient item could not be saved. Please, try again."
-msgstr ""
+msgstr "El Ambiente no pudo ser guardado. Por favor, intente nuevamente."
 
 #: /controllers/ambient_items_controller.php:55
 msgid "Invalid id for ambient item"
@@ -104,23 +103,23 @@ msgstr ""
 
 #: /controllers/ambient_items_controller.php:59
 msgid "Ambient item deleted"
-msgstr ""
+msgstr "Ambiente borrado"
 
 #: /controllers/ambient_items_controller.php:62
 msgid "Ambient item was not deleted"
-msgstr ""
+msgstr "El Ambiente no fue borrado"
 
 #: /controllers/ambients_controller.php:13;33
 msgid "Invalid ambient"
-msgstr ""
+msgstr "Ambiente inválido"
 
 #: /controllers/ambients_controller.php:23;38
 msgid "The ambient has been saved"
-msgstr ""
+msgstr "El Ambiente fue guardado"
 
 #: /controllers/ambients_controller.php:26;41
 msgid "The ambient could not be saved. Please, try again."
-msgstr ""
+msgstr "El Ambiente no pudo ser guardado. Por favor, intente nuevamente."
 
 #: /controllers/ambients_controller.php:51
 msgid "Invalid id for ambient"
@@ -128,23 +127,23 @@ msgstr ""
 
 #: /controllers/ambients_controller.php:55
 msgid "Ambient deleted"
-msgstr ""
+msgstr "Ambiente borrado"
 
 #: /controllers/ambients_controller.php:58
 msgid "Ambient was not deleted"
-msgstr ""
+msgstr "El Ambiente no fue borrado"
 
 #: /controllers/contact_infos_controller.php:26;46
 msgid "Invalid contact info"
-msgstr ""
+msgstr "Información de contacto inválida"
 
 #: /controllers/contact_infos_controller.php:36;51
 msgid "The contact info has been saved"
-msgstr ""
+msgstr "la Información de contacto fue guardada"
 
 #: /controllers/contact_infos_controller.php:39;54
 msgid "The contact info could not be saved. Please, try again."
-msgstr ""
+msgstr "La Información de contacto no pudo ser guardada. Por favor, intente nuevamente."
 
 #: /controllers/contact_infos_controller.php:64
 msgid "Invalid id for contact info"
@@ -152,23 +151,23 @@ msgstr ""
 
 #: /controllers/contact_infos_controller.php:68
 msgid "Contact info deleted"
-msgstr ""
+msgstr "Información de contacto borrada"
 
 #: /controllers/contact_infos_controller.php:71
 msgid "Contact info was not deleted"
-msgstr ""
+msgstr "La Información de contacto no fue borrada"
 
 #: /controllers/gallery_categories_controller.php:13;35
 msgid "Invalid gallery category"
-msgstr ""
+msgstr "Categoria de Galería inválida"
 
 #: /controllers/gallery_categories_controller.php:23;40
 msgid "The gallery category has been saved"
-msgstr ""
+msgstr "La Categoria de Galería ha sido guardada"
 
 #: /controllers/gallery_categories_controller.php:26;43
 msgid "The gallery category could not be saved. Please, try again."
-msgstr ""
+msgstr "La Categoria de Galería no pudo ser guardada. Por favor, intente nuevamente."
 
 #: /controllers/gallery_categories_controller.php:55
 msgid "Invalid id for gallery category"
@@ -176,23 +175,23 @@ msgstr ""
 
 #: /controllers/gallery_categories_controller.php:59
 msgid "Gallery category deleted"
-msgstr ""
+msgstr "Categoria de Galería borrada"
 
 #: /controllers/gallery_categories_controller.php:62
 msgid "Gallery category was not deleted"
-msgstr ""
+msgstr "Categoria de Galería no fue borrada"
 
 #: /controllers/gallery_category_items_controller.php:13;35
 msgid "Invalid gallery category item"
-msgstr ""
+msgstr "Categoria de Galería inválida"
 
 #: /controllers/gallery_category_items_controller.php:23;40
 msgid "The gallery category item has been saved"
-msgstr ""
+msgstr "La Categoria de Galería ha sido guardada"
 
 #: /controllers/gallery_category_items_controller.php:26;43
 msgid "The gallery category item could not be saved. Please, try again."
-msgstr ""
+msgstr "La Categoria de Galería no pudo ser guardada. Por favor, intente nuevamente."
 
 #: /controllers/gallery_category_items_controller.php:55
 msgid "Invalid id for gallery category item"
@@ -200,23 +199,23 @@ msgstr ""
 
 #: /controllers/gallery_category_items_controller.php:59
 msgid "Gallery category item deleted"
-msgstr ""
+msgstr "Categoria de Galería borrada"
 
 #: /controllers/gallery_category_items_controller.php:62
 msgid "Gallery category item was not deleted"
-msgstr ""
+msgstr "Categoria de Galería no fue borrada"
 
 #: /controllers/our_projects_items_controller.php:13;33
 msgid "Invalid our projects item"
-msgstr ""
+msgstr "Proyecto inválido"
 
 #: /controllers/our_projects_items_controller.php:23;38
 msgid "The our projects item has been saved"
-msgstr ""
+msgstr "El Proyecto ha sido guardado"
 
 #: /controllers/our_projects_items_controller.php:26;41
 msgid "The our projects item could not be saved. Please, try again."
-msgstr ""
+msgstr "El Proyecto no pudo ser guardado. Por favor, intente nuevamente."
 
 #: /controllers/our_projects_items_controller.php:51
 msgid "Invalid id for our projects item"
@@ -224,23 +223,23 @@ msgstr ""
 
 #: /controllers/our_projects_items_controller.php:55
 msgid "Our projects item deleted"
-msgstr ""
+msgstr "Proyecto borrado"
 
 #: /controllers/our_projects_items_controller.php:58
 msgid "Our projects item was not deleted"
-msgstr ""
+msgstr "Proyecto no fue borrado"
 
 #: /controllers/users_controller.php:36;56
 msgid "Invalid user"
-msgstr ""
+msgstr "Usuario inválido"
 
 #: /controllers/users_controller.php:46;61
 msgid "The user has been saved"
-msgstr ""
+msgstr "El Usuario ha sido guardado"
 
 #: /controllers/users_controller.php:49;64
 msgid "The user could not be saved. Please, try again."
-msgstr ""
+msgstr "El Usuario no pudo ser guardado. Por favor, intente nuevamente."
 
 #: /controllers/users_controller.php:74
 msgid "Invalid id for user"
@@ -248,11 +247,11 @@ msgstr ""
 
 #: /controllers/users_controller.php:78
 msgid "User deleted"
-msgstr ""
+msgstr "Usuario borrado"
 
 #: /controllers/users_controller.php:81
 msgid "User was not deleted"
-msgstr ""
+msgstr "El Usuario no fue borrado"
 
 #: /plugins/upload/controllers/attachments_controller.php:30;79;136;185
 msgid "Invalid attachment"
@@ -323,7 +322,7 @@ msgstr ""
 #: /views/our_projects_items/admin_add.ctp:13
 #: /views/our_projects_items/admin_edit.ctp:14
 msgid "Submit"
-msgstr ""
+msgstr "Enviar"
 
 #: /plugins/upload/views/attachments/admin_add.ctp:9
 msgid "Admin Add Attachment"
@@ -348,7 +347,7 @@ msgstr ""
 #: /views/our_projects_items/admin_edit.ctp:20
 #: /views/our_projects_items/admin_index.ctp:36
 msgid "Delete"
-msgstr ""
+msgstr "Borrar"
 
 #: /plugins/upload/views/attachments/admin_edit.ctp:5
 #: /plugins/upload/views/attachments/admin_view.ctp:9
@@ -382,12 +381,12 @@ msgstr ""
 #: /plugins/upload/views/attachments/admin_index.ctp:6
 #: /plugins/upload/views/attachments/index.ctp:6
 msgid "Add"
-msgstr ""
+msgstr "Agregar"
 
 #: /plugins/upload/views/attachments/admin_index.ctp:9
 #: /plugins/upload/views/attachments/index.ctp:9
 msgid "Reload"
-msgstr ""
+msgstr "Recargar"
 
 #: /plugins/upload/views/attachments/admin_index.ctp:29;117
 #: /plugins/upload/views/attachments/index.ctp:29;117
@@ -401,7 +400,7 @@ msgstr ""
 #: /views/gallery_category_items/admin_index.ctp:54
 #: /views/our_projects_items/admin_index.ctp:49
 msgid "previous"
-msgstr ""
+msgstr "anterior"
 
 #: /plugins/upload/views/attachments/admin_index.ctp:32;120
 #: /plugins/upload/views/attachments/index.ctp:32;120
@@ -415,7 +414,7 @@ msgstr ""
 #: /views/gallery_category_items/admin_index.ctp:57
 #: /views/our_projects_items/admin_index.ctp:52
 msgid "next"
-msgstr ""
+msgstr "siguiente"
 
 #: /plugins/upload/views/attachments/admin_index.ctp:61
 #: /plugins/upload/views/attachments/index.ctp:61
@@ -435,13 +434,13 @@ msgstr ""
 #: /views/our_projects_items/admin_edit.ctp:17
 #: /views/our_projects_items/admin_index.ctp:9
 msgid "Actions"
-msgstr ""
+msgstr "Acciones"
 
 #: /plugins/upload/views/attachments/admin_index.ctp:98
 #: /plugins/upload/views/attachments/index.ctp:98
 #: /views/gallery_categories/admin_view.ctp:71;119
 msgid "View"
-msgstr ""
+msgstr "Ver"
 
 #: /plugins/upload/views/attachments/admin_index.ctp:99
 #: /plugins/upload/views/attachments/admin_view.ctp:8
@@ -458,19 +457,19 @@ msgstr ""
 #: /views/gallery_category_items/admin_index.ctp:40
 #: /views/our_projects_items/admin_index.ctp:35
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: /plugins/upload/views/attachments/admin_index.ctp:100
 #: /plugins/upload/views/attachments/index.ctp:100
 msgid "Are you sure you want to delete %s?"
-msgstr ""
+msgstr "Estas seguro de querer eliminar %s?"
 
 #: /plugins/upload/views/attachments/admin_index.ctp:106
 #: /plugins/upload/views/attachments/admin_view.ctp:10
 #: /plugins/upload/views/attachments/index.ctp:106
 #: /plugins/upload/views/attachments/view.ctp:10
 msgid "New"
-msgstr ""
+msgstr "Nuevo"
 
 #: /plugins/upload/views/attachments/admin_index.ctp:112
 #: /plugins/upload/views/attachments/index.ctp:112
@@ -484,19 +483,19 @@ msgstr ""
 #: /views/gallery_category_items/admin_index.ctp:49
 #: /views/our_projects_items/admin_index.ctp:44
 msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
-msgstr ""
+msgstr "Página %page% de %pages%, mostrando %current% registros de %count% en total, comenzando con el registro %start%, terminando en el registro %end%"
 
 #: /plugins/upload/views/attachments/admin_view.ctp:14
 #: /plugins/upload/views/attachments/view.ctp:14
 #: /views/gallery_categories/admin_view.ctp:4;49;91
 #: /views/gallery_category_items/admin_view.ctp:4
 msgid "Id"
-msgstr ""
+msgstr "ID"
 
 #: /plugins/upload/views/attachments/admin_view.ctp:19
 #: /plugins/upload/views/attachments/view.ctp:19
 msgid "Model"
-msgstr ""
+msgstr "Modelo"
 
 #: /plugins/upload/views/attachments/admin_view.ctp:24
 #: /plugins/upload/views/attachments/view.ctp:24
@@ -507,7 +506,7 @@ msgstr ""
 #: /plugins/upload/views/attachments/view.ctp:29
 #: /views/gallery_categories/admin_view.ctp:14;51
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 #: /plugins/upload/views/attachments/admin_view.ctp:34
 #: /plugins/upload/views/attachments/view.ctp:34
@@ -569,14 +568,14 @@ msgstr ""
 #: /views/gallery_categories/admin_view.ctp:19;52;97
 #: /views/gallery_category_items/admin_view.ctp:34
 msgid "Created"
-msgstr ""
+msgstr "Creado"
 
 #: /plugins/upload/views/attachments/admin_view.ctp:94
 #: /plugins/upload/views/attachments/view.ctp:94
 #: /views/gallery_categories/admin_view.ctp:24;53;98
 #: /views/gallery_category_items/admin_view.ctp:39
 msgid "Modified"
-msgstr ""
+msgstr "Modificado"
 
 #: /plugins/upload/views/attachments/edit.ctp:10
 msgid "Edit Attachment"
@@ -584,218 +583,218 @@ msgstr ""
 
 #: /views/about_us_items/admin_add.ctp:4
 msgid "Admin Add About Us Item"
-msgstr ""
+msgstr "Agregar nuevo elemento para \"Quienes Somos\""
 
 #: /views/about_us_items/admin_add.ctp:6
 msgid "Menu Title"
-msgstr ""
+msgstr "Título del Menú"
 
 #: /views/about_us_items/admin_add.ctp:18
 #: /views/about_us_items/admin_edit.ctp:19
 #: /views/elements/actions_menu.ctp:14
 msgid "List About Us Items"
-msgstr ""
+msgstr "Listar elementos \"Quienes Somos\""
 
 #: /views/about_us_items/admin_edit.ctp:4
 msgid "Admin Edit About Us Item"
-msgstr ""
+msgstr "Editar elemento \"Quienes Somos\""
 
 #: /views/about_us_items/admin_index.ctp:2
 msgid "About Us Items"
-msgstr ""
+msgstr "Elementos \"Quienes Somos\""
 
 #: /views/ambient_item_hotspot_textures/admin_add.ctp:4
 msgid "Admin Add Ambient Item Hotspot Texture"
-msgstr ""
+msgstr "Agregar Textura de Hotspot"
 
 #: /views/ambient_item_hotspot_textures/admin_edit.ctp:4
 msgid "Admin Edit Ambient Item Hotspot Texture"
-msgstr ""
+msgstr "Editar Textura de Hotspot"
 
 #: /views/ambient_item_hotspot_textures/admin_index.ctp:2
 msgid "Ambient Item Hotspot Textures"
-msgstr ""
+msgstr "Texturas"
 
 #: /views/ambient_item_hotspots/admin_add.ctp:4
 msgid "Admin Add Ambient Item Hotspot"
-msgstr ""
+msgstr "Agregar Hotspot"
 
 #: /views/ambient_item_hotspots/admin_add.ctp:8
 #: /views/ambient_item_hotspots/admin_edit.ctp:8
 msgid "Top Left Corner"
-msgstr ""
+msgstr "Esquina superior izquierda"
 
 #: /views/ambient_item_hotspots/admin_add.ctp:14
 #: /views/ambient_item_hotspots/admin_edit.ctp:14
 msgid "Top Right Corner"
-msgstr ""
+msgstr "Esquina superior derecha"
 
 #: /views/ambient_item_hotspots/admin_add.ctp:20
 #: /views/ambient_item_hotspots/admin_edit.ctp:20
 msgid "Bottom Left Corner"
-msgstr ""
+msgstr "Esquina inferior izquierda"
 
 #: /views/ambient_item_hotspots/admin_add.ctp:27
 #: /views/ambient_item_hotspots/admin_edit.ctp:27
 msgid "Bottom Right Corner"
-msgstr ""
+msgstr "Esquina inferior derecha"
 
 #: /views/ambient_item_hotspots/admin_edit.ctp:4
 msgid "Admin Edit Ambient Item Hotspot"
-msgstr ""
+msgstr "Editar Hotspot"
 
 #: /views/ambient_item_hotspots/admin_index.ctp:2
 #: /views/elements/actions_menu.ctp:30
 msgid "Ambient Item Hotspots"
-msgstr ""
+msgstr "Hotspots"
 
 #: /views/ambient_items/admin_add.ctp:4
 msgid "Admin Add Ambient Item"
-msgstr ""
+msgstr "Agregar Ambiente"
 
 #: /views/ambient_items/admin_edit.ctp:4
 msgid "Admin Edit Ambient Item"
-msgstr ""
+msgstr "Editar Ambiente"
 
 #: /views/ambient_items/admin_index.ctp:2
 #: /views/elements/actions_menu.ctp:24
 msgid "Ambient Items"
-msgstr ""
+msgstr "Ambientes"
 
 #: /views/ambients/admin_add.ctp:4
 msgid "Admin Add Ambient"
-msgstr ""
+msgstr "Agregar Ambiente"
 
 #: /views/ambients/admin_edit.ctp:4
 msgid "Admin Edit Ambient"
-msgstr ""
+msgstr "Editar Ambiente"
 
 #: /views/ambients/admin_edit.ctp:17
 #: /views/elements/actions_menu.ctp:20
 msgid "List Ambients"
-msgstr ""
+msgstr "Listar Ambientes"
 
 #: /views/ambients/admin_edit.ctp:18
 #: /views/elements/actions_menu.ctp:26
 msgid "List Ambient Items"
-msgstr ""
+msgstr "Listar Ambientes"
 
 #: /views/ambients/admin_edit.ctp:19
 #: /views/elements/actions_menu.ctp:27
 msgid "New Ambient Item"
-msgstr ""
+msgstr "Nuevo Ambiente"
 
 #: /views/ambients/admin_index.ctp:2
 #: /views/elements/actions_menu.ctp:18
 msgid "Ambients"
-msgstr ""
+msgstr "Ambientes"
 
 #: /views/contact_infos/admin_add.ctp:4
 msgid "Admin Add Contact Info"
-msgstr ""
+msgstr "Agregar Información de Contacto"
 
 #: /views/contact_infos/admin_edit.ctp:4
 msgid "Admin Edit Contact Info"
-msgstr ""
+msgstr "Editar Información de Contacto"
 
 #: /views/contact_infos/admin_index.ctp:2
 msgid "Contact Infos"
-msgstr ""
+msgstr "Elementos de Información de Contacto"
 
 #: /views/elements/actions_menu.ctp:2
 msgid "Administration"
-msgstr ""
+msgstr "Administración"
 
 #: /views/elements/actions_menu.ctp:4
 msgid "Logout"
-msgstr ""
+msgstr "Salir"
 
 #: /views/elements/actions_menu.ctp:6
 msgid "Our Projects"
-msgstr ""
+msgstr "Nuestros Proyectos"
 
 #: /views/elements/actions_menu.ctp:8
 #: /views/our_projects_items/admin_edit.ctp:21
 msgid "List Our Projects Items"
-msgstr ""
+msgstr "Listar \"Nuestros Proyectos\""
 
 #: /views/elements/actions_menu.ctp:9
 msgid "New Our Projects Item"
-msgstr ""
+msgstr "Nuevo item \"Nuestros Proyectos\""
 
 #: /views/elements/actions_menu.ctp:12
 msgid "About us"
-msgstr ""
+msgstr "Quienes Somos"
 
 #: /views/elements/actions_menu.ctp:15
 msgid "New About Us Item"
-msgstr ""
+msgstr "Nuevo item \"Quienes Somos\""
 
 #: /views/elements/actions_menu.ctp:21
 msgid "New Ambient"
-msgstr ""
+msgstr "Nuevo Ambiente"
 
 #: /views/elements/actions_menu.ctp:33
 msgid "List Ambient Item Hotspots"
-msgstr ""
+msgstr "Listar Hotspots"
 
 #: /views/elements/actions_menu.ctp:34
 msgid "New Ambient Item Hotspot"
-msgstr ""
+msgstr "Nuevo Hotspot"
 
 #: /views/elements/actions_menu.ctp:37
 msgid "Hotspot Textures"
-msgstr ""
+msgstr "Texturas de Hotspot"
 
 #: /views/elements/actions_menu.ctp:40
 msgid "List Hotspot Textures"
-msgstr ""
+msgstr "Listar Texturas de Hotspot"
 
 #: /views/elements/actions_menu.ctp:41
 msgid "New Hotspot Texture"
-msgstr ""
+msgstr "Nueva Textura de Hotspot"
 
 #: /views/elements/actions_menu.ctp:44
 msgid "Contact Info"
-msgstr ""
+msgstr "Información de Contacto"
 
 #: /views/elements/actions_menu.ctp:46
 msgid "View Contact Info"
-msgstr ""
+msgstr "Ver Información de Contacto"
 
 #: /views/elements/actions_menu.ctp:49
 #: /views/gallery_categories/admin_index.ctp:2
 msgid "Gallery Categories"
-msgstr ""
+msgstr "Categorías de Galería"
 
 #: /views/elements/actions_menu.ctp:52
 #: /views/gallery_categories/admin_view.ctp:36;38
 #: /views/gallery_category_items/admin_view.ctp:53
 msgid "List Gallery Categories"
-msgstr ""
+msgstr "Listar Categorías de Galería"
 
 #: /views/elements/actions_menu.ctp:53
 #: /views/gallery_categories/admin_view.ctp:37
 #: /views/gallery_category_items/admin_view.ctp:54
 msgid "New Gallery Category"
-msgstr ""
+msgstr "Nueva Categoría de Galería"
 
 #: /views/elements/actions_menu.ctp:56
 #: /views/gallery_category_items/admin_index.ctp:2
 msgid "Gallery Category Items"
-msgstr ""
+msgstr "Elementos de Galería"
 
 #: /views/elements/actions_menu.ctp:58
 #: /views/gallery_categories/admin_view.ctp:40
 #: /views/gallery_category_items/admin_view.ctp:51
 msgid "List Gallery Category Items"
-msgstr ""
+msgstr "Listar Elementos de Galería"
 
 #: /views/elements/actions_menu.ctp:59
 #: /views/gallery_categories/admin_view.ctp:41;130
 #: /views/gallery_category_items/admin_view.ctp:52
 msgid "New Gallery Category Item"
-msgstr ""
+msgstr "Nuevo item \"Categoría de Galería\""
 
 #: /views/elements/backend_header.ctp:3
 msgid "DeckDesign.cl › "
@@ -819,88 +818,88 @@ msgstr ""
 
 #: /views/gallery_categories/admin_add.ctp:4
 msgid "Admin Add Gallery Category"
-msgstr ""
+msgstr "Agregar Categoría de Galería"
 
 #: /views/gallery_categories/admin_edit.ctp:4
 msgid "Admin Edit Gallery Category"
-msgstr ""
+msgstr "Editar Categoría de Galería"
 
 #: /views/gallery_categories/admin_view.ctp:2
 #: /views/gallery_category_items/admin_view.ctp:9
 msgid "Gallery Category"
-msgstr ""
+msgstr "Categoría de Galería"
 
 #: /views/gallery_categories/admin_view.ctp:9
 msgid "Gallery Category Parent"
-msgstr ""
+msgstr "Categoría de Galería padre"
 
 #: /views/gallery_categories/admin_view.ctp:34
 msgid "Edit Gallery Category"
-msgstr ""
+msgstr "Editar Categoría de Galería"
 
 #: /views/gallery_categories/admin_view.ctp:35
 msgid "Delete Gallery Category"
-msgstr ""
+msgstr "Borrar Categoría de Galería"
 
 #: /views/gallery_categories/admin_view.ctp:39
 msgid "New Gallery Category Parent"
-msgstr ""
+msgstr "Nuevo padre de Categoría de Galería"
 
 #: /views/gallery_categories/admin_view.ctp:45
 msgid "Related Gallery Categories"
-msgstr ""
+msgstr "Categorías de Galería relacionadas"
 
 #: /views/gallery_categories/admin_view.ctp:50;92
 msgid "Gallery Category Id"
-msgstr ""
+msgstr "ID de Categoría de Galería"
 
 #: /views/gallery_categories/admin_view.ctp:82
 msgid "New Gallery Category Child"
-msgstr ""
+msgstr "Nuevo hijo de Categoría de Galería"
 
 #: /views/gallery_categories/admin_view.ctp:87
 msgid "Related Gallery Category Items"
-msgstr ""
+msgstr "Elementos de Galería Relacionados"
 
 #: /views/gallery_categories/admin_view.ctp:93
 #: /views/gallery_category_items/admin_view.ctp:14
 msgid "Content Title"
-msgstr ""
+msgstr "Título"
 
 #: /views/gallery_categories/admin_view.ctp:94
 #: /views/gallery_category_items/admin_view.ctp:19
 msgid "Content Text"
-msgstr ""
+msgstr "Texto"
 
 #: /views/gallery_categories/admin_view.ctp:95
 #: /views/gallery_category_items/admin_view.ctp:24
 msgid "Image"
-msgstr ""
+msgstr "Imagen"
 
 #: /views/gallery_categories/admin_view.ctp:96
 #: /views/gallery_category_items/admin_view.ctp:29
 msgid "Image Dir"
-msgstr ""
+msgstr "Directorio de Imagen"
 
 #: /views/gallery_category_items/admin_add.ctp:4
 msgid "Admin Add Gallery Category Item"
-msgstr ""
+msgstr "Agregar Categoría de Galería"
 
 #: /views/gallery_category_items/admin_edit.ctp:4
 msgid "Admin Edit Gallery Category Item"
-msgstr ""
+msgstr "Editar Categoría de Galería"
 
 #: /views/gallery_category_items/admin_view.ctp:2
 msgid "Gallery Category Item"
-msgstr ""
+msgstr "Categoría de Galería"
 
 #: /views/gallery_category_items/admin_view.ctp:49
 msgid "Edit Gallery Category Item"
-msgstr ""
+msgstr "Editar Categoría de Galería"
 
 #: /views/gallery_category_items/admin_view.ctp:50
 msgid "Delete Gallery Category Item"
-msgstr ""
+msgstr "Borrar Categoría de Galería"
 
 #: /views/layouts/auth.ctp:25
 msgid "Deckdesign.cl ›"
@@ -916,15 +915,15 @@ msgstr ""
 
 #: /views/our_projects_items/admin_add.ctp:4
 msgid "Admin Add Our Projects Item"
-msgstr ""
+msgstr "Agregar elemento para \"Nuestros Proyectos\""
 
 #: /views/our_projects_items/admin_edit.ctp:4
 msgid "Admin Edit Our Projects Item"
-msgstr ""
+msgstr "Editar elemento \"Nuestros Proyectos\""
 
 #: /views/our_projects_items/admin_index.ctp:2
 msgid "Our Projects Items"
-msgstr ""
+msgstr "Nuestros Proyectos"
 
 #: /webroot/test.php:88
 msgid "Debug setting does not allow access to this url."

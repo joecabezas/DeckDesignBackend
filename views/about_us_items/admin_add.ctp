@@ -3,7 +3,7 @@
 	<fieldset>
 		<legend><?php __('Admin Add About Us Item'); ?></legend>
 	<?php
-		echo $this->Form->input('menu_title');
+		echo $this->Form->input('menu_title', array('label' => __('Menu Title', true)));
 		echo $this->Form->input('content_title');
 		echo $this->Form->input('content_text');
 	?>
