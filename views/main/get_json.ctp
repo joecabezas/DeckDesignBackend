@@ -1,7 +1,10 @@
 {
 	"data":
 	{
-		"logo":"data/logo.swf",
+		"logo":"img/logo.swf",
+		"footer":"img/franja-footer.gif",
+		"facebook_url":"http://www.facebook.com",
+		"twitter_url":"http://www.twitter.com",
 		"secciones":
 		{
 			"home":
