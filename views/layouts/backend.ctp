@@ -22,7 +22,7 @@
 <head>
 	<?php echo $this->Html->charset(); ?>
 	<title>
-		<?php __('Polerones | Panel de Administracion|'); ?>
+		<?php __('DeckDesign | Panel de Administracion|'); ?>
 		<?php echo $title_for_layout; ?>
 	</title>
 	<?php
@@ -36,7 +36,7 @@
 <body>
 	<div id="container">
 		<div id="header">
-			<h1><?php //echo __('Christys\' Admin Area', true); ?></h1>
+			<h1><?php //echo __('DeckDesign\' Admin Area', true); ?></h1>
 		</div>
 		<div id="content">
 

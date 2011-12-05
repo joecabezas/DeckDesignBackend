@@ -8,6 +8,8 @@ class AppController extends Controller {
 
 		//Security::setHash('md5');
 
+		Configure::write('Config.language', 'spa');
+
 		$this->Auth->fields = array(
 			'username' => 'mail',
 			'password' => 'password'
