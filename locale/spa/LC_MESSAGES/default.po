@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DECKDESIGN\n"
 "POT-Creation-Date: 2011-12-04 23:10-0300\n"
-"PO-Revision-Date: 2011-12-04 23:14-0300\n"
+"PO-Revision-Date: 2012-01-15 01:17-0300\n"
 "Last-Translator: Joe Cabezas <joe.cabezas@gmail.com>\n"
 "Language-Team: \n"
 "Language: \n"
@@ -87,15 +87,15 @@ msgstr "Hotspot no fue borrado"
 
 #: /controllers/ambient_items_controller.php:13;35
 msgid "Invalid ambient item"
-msgstr "Ambiente inválido"
+msgstr "Item de ambiente inválido"
 
 #: /controllers/ambient_items_controller.php:23;40
 msgid "The ambient item has been saved"
-msgstr "El Ambiente ha sido guardado"
+msgstr "El Item de ambiente ha sido guardado"
 
 #: /controllers/ambient_items_controller.php:26;43
 msgid "The ambient item could not be saved. Please, try again."
-msgstr "El Ambiente no pudo ser guardado. Por favor, intente nuevamente."
+msgstr "El Item de ambiente no pudo ser guardado. Por favor, intente nuevamente."
 
 #: /controllers/ambient_items_controller.php:55
 msgid "Invalid id for ambient item"
@@ -103,11 +103,11 @@ msgstr ""
 
 #: /controllers/ambient_items_controller.php:59
 msgid "Ambient item deleted"
-msgstr "Ambiente borrado"
+msgstr "Item de ambiente borrado"
 
 #: /controllers/ambient_items_controller.php:62
 msgid "Ambient item was not deleted"
-msgstr "El Ambiente no fue borrado"
+msgstr "El Item de ambiente no fue borrado"
 
 #: /controllers/ambients_controller.php:13;33
 msgid "Invalid ambient"
@@ -650,16 +650,16 @@ msgstr "Hotspots"
 
 #: /views/ambient_items/admin_add.ctp:4
 msgid "Admin Add Ambient Item"
-msgstr "Agregar Ambiente"
+msgstr "Agregar Item de ambiente"
 
 #: /views/ambient_items/admin_edit.ctp:4
 msgid "Admin Edit Ambient Item"
-msgstr "Editar Ambiente"
+msgstr "Editar Item de ambiente"
 
 #: /views/ambient_items/admin_index.ctp:2
 #: /views/elements/actions_menu.ctp:24
 msgid "Ambient Items"
-msgstr "Ambientes"
+msgstr "Items de ambiente"
 
 #: /views/ambients/admin_add.ctp:4
 msgid "Admin Add Ambient"
@@ -677,12 +677,12 @@ msgstr "Listar Ambientes"
 #: /views/ambients/admin_edit.ctp:18
 #: /views/elements/actions_menu.ctp:26
 msgid "List Ambient Items"
-msgstr "Listar Ambientes"
+msgstr "Listar Items de ambientes"
 
 #: /views/ambients/admin_edit.ctp:19
 #: /views/elements/actions_menu.ctp:27
 msgid "New Ambient Item"
-msgstr "Nuevo Ambiente"
+msgstr "Nuevo Item de ambiente"
 
 #: /views/ambients/admin_index.ctp:2
 #: /views/elements/actions_menu.ctp:18

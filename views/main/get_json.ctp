@@ -106,7 +106,6 @@
 				"categories":
 				[
 					<?php $this->Category->generate($d['GalleryCategories']); ?>
-
 				]
 			},
 			"imagina_tus_espacios":{

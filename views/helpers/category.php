@@ -18,11 +18,18 @@
 
 				//imprimir name
 				echo '"name":"'.$c['GalleryCategory']['name'].'",';
+				
+				//poner comas en los items
+				$first_item = true;
 
 				//imprimir items
 				echo '"items":[';
 				foreach($c['GalleryCategoryItem'] as $item)
 				{
+					if(!$first_item)
+						echo ',';
+					$first_item = false;
+					
 					echo '{';
 					echo '	"content_title":"'.$item['content_title'].'",';
 					echo '	"content_text":"'.$item['content_text'].'",';
