@@ -151,7 +151,12 @@
 									$img = $item['image'];
 									$img_dir = $item['image_dir'];
 									$img_url_chica = DS.'files'.DS.$files_dir.DS.$field.DS.$img_dir.DS.'chica_'.$img;
-									$img_url_grande = DS.'files'.DS.$files_dir.DS.$field.DS.$img_dir.DS.'grande_'.$img;
+									
+									//imagen grande
+									//$img_url_grande = DS.'files'.DS.$files_dir.DS.$field.DS.$img_dir.DS.'grande_'.$img;
+									
+									//usar original por que se pierde la transparencia al redimensionar
+									$img_url_grande = DS.'files'.DS.$files_dir.DS.$field.DS.$img_dir.DS.''.$img;
 								?>
 
 								"image":"<?php echo $html->url($img_url_grande, true); ?>",
@@ -163,7 +168,12 @@
 									$img = $item['image'];
 									$img_dir = $item['image_dir'];
 									$img_url_chica = DS.'files'.DS.$files_dir.DS.$field.DS.$img_dir.DS.'chica_'.$img;
-									$img_url_grande = DS.'files'.DS.$files_dir.DS.$field.DS.$img_dir.DS.'grande_'.$img;
+									
+									//imagen grande
+									//$img_url_grande = DS.'files'.DS.$files_dir.DS.$field.DS.$img_dir.DS.'grande_'.$img;
+									
+									//usar original por que se pierde la transparencia al redimensionar
+									$img_url_grande = DS.'files'.DS.$files_dir.DS.$field.DS.$img_dir.DS.''.$img;
 								?>
 
 								"mask":"<?php echo $html->url($img_url_grande, true); ?>",
