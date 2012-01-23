@@ -148,7 +148,7 @@
 									$key = 'AmbientItem';
 									$files_dir = Inflector::underscore(Inflector::singularize($key));
 									$field = 'image';
-									$img = $item['image'];
+									$img = $item[$field];
 									$img_dir = $item['image_dir'];
 									$img_url_chica = DS.'files'.DS.$files_dir.DS.$field.DS.$img_dir.DS.'chica_'.$img;
 									
@@ -165,7 +165,7 @@
 									$key = 'AmbientItem';
 									$files_dir = Inflector::underscore(Inflector::singularize($key));
 									$field = 'mask';
-									$img = $item['image'];
+									$img = $item[$field];
 									$img_dir = $item['image_dir'];
 									$img_url_chica = DS.'files'.DS.$files_dir.DS.$field.DS.$img_dir.DS.'chica_'.$img;
 									
