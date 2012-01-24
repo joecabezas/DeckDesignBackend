@@ -34,8 +34,7 @@
 					echo '	"content_title":"'.$item['content_title'].'",';
 					echo '	"content_text":"'.$item['content_text'].'",';
 
-					$key = array_keys($item);
-					$key = $key[0];
+					$key = 'GalleryCategoryItem';
 					$files_dir = Inflector::underscore(Inflector::singularize($key));
 					$field = 'image';
 					$img = $item['image'];
