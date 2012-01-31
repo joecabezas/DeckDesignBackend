@@ -3,7 +3,7 @@
 	{
 		"logo":"img/logo.swf",
 		"footer":"img/franja-footer.gif",
-		"facebook_url":"http://www.facebook.com",
+		"facebook_url":"http://www.facebook.com/profile.php?id=100002661649060",
 		"twitter_url":"http://www.twitter.com",
 		"secciones":
 		{
