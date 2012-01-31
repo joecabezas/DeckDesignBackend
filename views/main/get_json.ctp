@@ -27,19 +27,19 @@
 				"contenido":
 				[
 					{
-						"img":"http://cdn.home-designing.com/wp-content/uploads/2009/04/kids-study-room-skylight.jpg"
+						"img":"http://www.deckdesign.cl/img/fotos-inicio/foto_01.jpg"
 					},
 					{
-						"img":"http://www.sttudwalsinn.co.uk/resources/room+3+right.JPG"
+						"img":"http://www.deckdesign.cl/img/fotos-inicio/foto_02.jpg"
 					},
 					{
-						"img":"http://www.desktopwallpaperhd.com/wallpapers/10/3092.jpg"
+						"img":"http://www.deckdesign.cl/img/fotos-inicio/foto_03.jpg"
 					},
 					{
-						"img":"http://kidsroomdecoratingideas.co/wp-content/uploads/2011/07/Decorating-Kids-Rooms.jpg"
+						"img":"http://www.deckdesign.cl/img/fotos-inicio/foto_04.jpg"
 					},
 					{
-						"img":"http://www.housemaintain.com/wp-content/uploads/2010/04/Elegant-modern-formal-and-stylish-living-rooms-1.jpg"
+						"img":"http://www.deckdesign.cl/img/fotos-inicio/foto_05.jpg"
 					}
 				]
 			},
@@ -109,7 +109,7 @@
 				]
 			},
 			"imagina_tus_espacios":{
-				"debug":1,
+				"debug":0,
 				"ambientes":
 				[
 
