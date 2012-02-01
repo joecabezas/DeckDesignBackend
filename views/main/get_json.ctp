@@ -3,8 +3,8 @@
 	{
 		"logo":"img/logo.swf",
 		"footer":"img/franja-footer.gif",
-		"facebook_url":"http://www.facebook.com/profile.php?id=100002661649060",
-		"twitter_url":"http://www.twitter.com",
+		"facebook_url":"http://www.facebook.com/sharer/sharer.php?u=www.deckdesign.cl",
+		"twitter_url":"https://twitter.com/intent/tweet?text=DeckDesign%20-%20imprime%20tus%20ideas%20%7C%20http://www.deckdesign.cl/",
 		"secciones":
 		{
 			"home":
