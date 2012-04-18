@@ -5,11 +5,10 @@ class NotificationsComponent extends Object {
 	var $components = array('Email');
 
 	//variables de componente
-	//var $userModel = 'User'; //not used
 	var $config = array();
 	var $to = array();
 	var $from = array(
-		'mail' => 'Robot <robot@polerones.com>'
+		'mail' => 'Robot <robot@deckdesign.cl>'
 		);
 
 	//called before Controller::beforeFilter()
@@ -99,7 +98,7 @@ class NotificationsComponent extends Object {
 		$this->Email->sendAs = 'both'; // because we like to send pretty mail
 
 		//debug
-		//$this->Email->delivery = 'debug';
+		$this->Email->delivery = 'debug';
 
 		//Set view variables as normal
 		$data['config'] = $this->config;

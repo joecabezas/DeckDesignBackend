@@ -2,7 +2,7 @@
 class ContactController extends AppController {
 
 	var $name = 'Contact';
-	var $uses = array('User');
+	//var $uses = array('User');
 
 	var $layout = 'ajax';
 
@@ -24,14 +24,14 @@ class ContactController extends AppController {
 			$this->Notifications->from = $this->data['Message'];
 			
 			//adjuntar informacion de todos los admin
-			$admins = $this->User->find('all');
+			//$admins = $this->User->find('all');
 
-			debug($admins);
+			//debug($admins);
 			
 			//por cada admin encontrado...
-			foreach($admins as $admin){
-				//$this->Notifications->to[] = $admin['User'];
-			}
+			//foreach($admins as $admin){
+			//	$this->Notifications->to[] = $admin['User'];
+			//}
 			
 			//debug: enviar a joe.cabezas@gmail.com
 			$this->Notifications->to[] = array(
