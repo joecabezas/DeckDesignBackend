@@ -7,5 +7,5 @@
 	<li>Nombre: <?php echo $data['from']['name']; ?></li>
 	<li>Email: <?php echo $data['from']['mail']; ?></li>
 	<li>Producto: <?php echo $data['from']['product']; ?></li>
-	<li>Mensaje: <?php echo $data['from']['content']; ?></li>
+	<li>Mensaje: <?php echo $data['from']['message']; ?></li>
 </ul>

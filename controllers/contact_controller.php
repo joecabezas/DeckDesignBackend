@@ -2,7 +2,7 @@
 class ContactController extends AppController {
 
 	var $name = 'Contact';
-	//var $uses = array('User');
+	var $uses = array('User');
 
 	var $layout = 'ajax';
 
@@ -14,14 +14,14 @@ class ContactController extends AppController {
 
 		$d = array('success' => false);
 
-		debug($this->data);
+		//debug($this->params['form']);
 
-		if($this->data)
+		if($this->params['form'])
 		{
 			//mandar notificacion a los admin
 
 			//adjuntar datos del cliente que esta mandando el mensaje
-			$this->Notifications->from = $this->data['Message'];
+			$this->Notifications->from = $this->params['form'];
 			
 			//adjuntar informacion de todos los admin
 			//$admins = $this->User->find('all');
@@ -45,7 +45,7 @@ class ContactController extends AppController {
 
 			//enviar mail
 			$this->Notifications->sendContactNotification();
-			debug($this->Session->read('Message.email'));
+			//debug($this->Session->read('Message.email'));
 
 			$d = array('success' => true);
 		}

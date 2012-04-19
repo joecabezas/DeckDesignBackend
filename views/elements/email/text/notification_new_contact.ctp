@@ -9,4 +9,4 @@ Los datos del mensaje son los siguientes:<p>
 
  * Producto: <?php echo $data['from']['product']; ?>
 
- * Mensaje: <?php echo $data['from']['content']; ?>
+ * Mensaje: <?php echo $data['from']['message']; ?>

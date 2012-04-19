@@ -98,7 +98,7 @@ class NotificationsComponent extends Object {
 		$this->Email->sendAs = 'both'; // because we like to send pretty mail
 
 		//debug
-		$this->Email->delivery = 'debug';
+		//$this->Email->delivery = 'debug';
 
 		//Set view variables as normal
 		$data['config'] = $this->config;

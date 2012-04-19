@@ -5,6 +5,12 @@ class MainController extends AppController {
 	var $helpers = array('Category');
 	var $uses = array('AboutUsItem', 'OurProjectsItem', 'GalleryCategory', 'Ambient', 'ContactInfo');
 
+
+	function index()
+	{
+		
+	}
+
 	function getJson()
 	{
 		$this->layout = 'ajax';
