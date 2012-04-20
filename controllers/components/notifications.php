@@ -92,6 +92,7 @@ class NotificationsComponent extends Object {
 		if(isset($this->attachments))
 			$this->Email->attachments = $this->attachments;
 
+		$this->Email->layout = $this->config['layout']; // note no '.ctp'
 		$this->Email->template = $this->config['template']; // note no '.ctp'
 		//Send as 'html', 'text' or 'both' (default is 'text')
 

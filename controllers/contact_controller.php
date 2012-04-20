@@ -40,6 +40,7 @@ class ContactController extends AppController {
 				);
 
 			//configurar notificacion
+			$this->Notifications->config['layout'] = 'simple';
 			$this->Notifications->config['template'] = 'notification_new_contact';
 			$this->Notifications->config['subject'] = '[Nuevo Mensaje] ['.$this->Notifications->from['name'].']';
 
@@ -47,7 +48,8 @@ class ContactController extends AppController {
 			$this->Notifications->sendContactNotification();
 			//debug($this->Session->read('Message.email'));
 
-			$d = array('success' => true);
+			//$d = array('success' => true);
+			$d = 'Mensaje enviado';
 		}
 
 		//mostrar return
